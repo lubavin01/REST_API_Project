@@ -1,0 +1,7 @@
+node_modules
+.vscode
+logs
+sync.json
+temp
+/package-lock.json
+coverage
